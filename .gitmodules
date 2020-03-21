@@ -1,0 +1,6 @@
+[submodule "src/cc/lib/simple_curl_cpp"]
+	path = src/cc/lib/simple_curl_cpp
+	url = https://github.com/PiyushDatta/simple_curl_cpp
+[submodule "src/cc/lib/nlohmann_json"]
+	path = src/cc/lib/nlohmann_json
+	url = https://github.com/PiyushDatta/nlohmann_json
